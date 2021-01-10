@@ -3,7 +3,7 @@ This repository contains the codebase of a backend server build during participa
  - Backend Server is created using NodeJs(Express) integrated with MongoDB(Cloud Atlas) database.
  - Provides features like Login, Registration, Password Hashing, JWT token varification etc.
 
- - This server is trying to mimic a real UPI, where if user has already registered then get his account details or else upload a CSV of past transations and get account details.
+ - This server is trying to mimic a real UPI, where if user has already registered then get his account details or else upload a CSV of past transactions and get account details.
  - For a new user 8 digit unique account number should be assigned by the backend at the time of registration.
 
 ## Getting Started
