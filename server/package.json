@@ -1,0 +1,21 @@
+{
+  "name": "upi_backend",
+  "version": "1.0.0",
+  "description": "FC Backend Hiring Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sunil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.14",
+    "nodemon": "^2.0.6",
+    "password-hash": "^1.2.2"
+  }
+}
